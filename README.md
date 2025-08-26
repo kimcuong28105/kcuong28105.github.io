@@ -1,1 +1,5 @@
 # kcuong28105.github.io
+# ĐẠI HỌC KINH TẾ TPHCM UEH - K49
+## Họ và tên: LÊ THỊ KIM CƯƠNG
+## MSSV: 31231023267 - LỚP IVP001
+# KỸ THUẬT LẬP TRÌNH VỚI STATA VÀ PYTHON SÁNG T3 
